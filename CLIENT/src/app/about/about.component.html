@@ -1,0 +1,21 @@
+<div id="main_div">
+    <h3>about us...</h3>
+    <p>
+        Blue Girraffe is a concept- online store for children
+        clothing and accesories.
+    </p>
+    <p>
+        We want to inspire by offering an exclusive
+        shopping experience
+        and excellent customer service with the best
+        mixture of high-quality brands.
+    </p>
+    <p>
+        Here you'll find baby and children's clothes,
+        toys, accessories and more for children
+        0-10 years
+    </p>
+    <div *ngIf="isLoggedOut$ | async" id="btn_div">
+        <button (click)="joinUs()">join us</button>
+    </div>
+</div>

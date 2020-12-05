@@ -1,0 +1,19 @@
+<table class="w3-table" *ngIf="bag_product$ | async as bag_product">
+    <td>
+        <div>
+            <img src={{bag_product.img}}>
+            <div>
+                {{bag_product.product_name | uppercase}}
+            </div>
+            <div>
+                price: {{bag_product.product_price}}$
+            </div>
+        </div>
+    </td>
+    <td> {{bag_product.qty}}</td>
+    <td> {{bag_product.total_price}}</td>
+    <td>
+        <button class="action-btn" (click)="removeBagProduct()"><img class="btn-image"
+                src="assets/img/trash.png"></button>
+    </td>
+</table>

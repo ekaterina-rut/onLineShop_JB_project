@@ -1,0 +1,100 @@
+<div>
+    <div *ngIf="order_products$ | async as products">
+        <div  id="div-order" *ngIf="shopping_bag$ | async">
+            <div class="section">
+                <p>check your order</p>
+                <table class="order">
+                    <tr class="order-raw ">
+                        <th></th>
+                        <th>quantity</th>
+                        <th>subtotal</th>
+                    </tr>
+                </table>
+                <table>
+                    <tr *ngFor="let order_product of order_products$ | async">
+                        <app-order-product [id_product]="order_product.id_product">
+                        </app-order-product>
+                    </tr>
+                </table>
+                <table>
+                    <tr *ngIf="total$ | async as total_price">
+                        <th>
+                            total
+                        </th>
+                        <th></th>
+                        <th>
+                            {{total_price}}$
+                        </th>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="section" id="shipping_details" *ngIf="user$ | async as user">
+                <p style="margin-left: 20px">
+                    shipping details
+                </p>
+                <form [formGroup]="orderForm" (ngSubmit)="onSubmit()">
+                    <label>city</label><br>
+                    <input formControlName="city" (dblclick)="overrideForm(user)"
+                        placeholder="double click to insert your city" />
+                    <span [hidden]="!(orderForm.controls['city'].invalid || orderForm.controls['city'].touched)">
+                        <span class="error" *ngIf="orderForm.controls['city'].errors">
+                            <span class="err" *ngIf="orderForm.controls['city'].errors.required">
+                                city is required
+                            </span>
+                        </span>
+                    </span>
+                    <div>
+                        <label>street </label><br>
+                        <input formControlName="street" (dblclick)="overrideForm(user)" type="text"
+                            placeholder="double click to insert your steet" />
+                        <span
+                            [hidden]="!(orderForm.controls['street'].invalid || orderForm.controls['street'].touched)">
+                            <span class="error" *ngIf="orderForm.controls['street'].errors">
+                                <span class="err" *ngIf="orderForm.controls['street'].errors.required">
+                                    street is required
+                                </span>
+                            </span>
+                        </span>
+                    </div>
+                    <label>delivery date </label><br>
+                    <input formControlName="delivery_date" type="date" />
+                    <span
+                        [hidden]="!(orderForm.controls['delivery_date'].invalid || orderForm.controls['delivery_date'].touched)">
+                        <span class="error" *ngIf="orderForm.controls['delivery_date'].errors">
+                            <span class="err" *ngIf="orderForm.controls['delivery_date'].errors.required">
+                                pick a delivery date
+                            </span>
+                        </span>
+                    </span>
+                    <div>
+
+                        <label>payment </label><br>
+                        <input formControlName="credit_card" type="text" placeholder="creadit card" />
+                        <span
+                            [hidden]="!(orderForm.controls['credit_card'].invalid ||  orderForm.controls['credit_card'].touched)">
+                            <span class="error" *ngIf="orderForm.controls['credit_card'].errors">
+                                <span class="err" *ngIf="orderForm.controls['credit_card'].errors.required">
+                                    credit card required
+                                </span>
+                            </span>
+                        </span>
+                    </div>
+
+                    <div *ngIf="err_msg$ |async as err_msg">
+                        <p>{{err_msg}}</p>
+                        <p>522879109900012</p>
+
+                    </div>
+                    <button id="place-order-btn" type="submit" [disabled]="!orderForm.valid">place order</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div id="msg-div" *ngIf="msg$ | async as msg">
+        <h1>{{msg | uppercase}}</h1>
+        <img src="assets/img/baby-in-bag.jpg">
+    </div>
+</div>
+<button type="button" id="back-btn" (click)="backShopping()">back to shop</button>

@@ -1,0 +1,13 @@
+{
+  _id: 5f537866a147455ea0675f71,
+  id_customer: '5f40e38068415e8268d49690',
+  id_bag: '5f42d0ae253a00c1180ea441',
+  total_price: 80,
+  city: 'tel aviv',
+  street: 'lod',
+  order_date: 2020-09-05T11:37:10.998Z,
+  bag_date: 2020-08-23T20:25:18.445Z,
+  payment: '123',
+  deliveryDate: 2020-09-30T00:00:00.000Z,
+  __v: 0
+}

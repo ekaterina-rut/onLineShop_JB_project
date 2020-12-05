@@ -1,0 +1,49 @@
+img {
+    height: 100px;
+    margin-left: 20px;
+}
+
+#main-div {
+    background-color: #C8C9CD;
+    text-align: left;
+}
+input {
+    margin: 0px 20px 10px 20px;
+    width: 50%;
+    height: 30px;
+    border-color: 5px solid white;
+    border-style: none;
+    font-size: 15px;
+    color: #3E4149;
+
+}
+
+
+button {
+    width: 50%;
+    height: 30px;
+    border-style: none;
+    color: #3E4149;
+    background-color:  #F9FFCB;
+    margin-bottom: 20px;
+    margin-left: 20px;
+
+}
+button:hover {
+    width: 50%;
+    height: 30px;
+    border-style: none;
+    color: white;
+    background-color:  #90BFBE;
+    margin-left: 20px;
+}
+
+label {
+    margin-left: 20px;
+}
+
+#err {
+    height: 40px;
+    margin-left: 20px;
+
+}

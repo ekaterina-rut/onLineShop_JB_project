@@ -1,0 +1,60 @@
+<div id="main-div">
+    <app-error-msg></app-error-msg>
+
+    <div class="section">
+        <div class="section" *ngIf="user_id$ | async as _id">
+        <h3>your contact details</h3>
+     
+            <form [formGroup]="registrationForm" (ngSubmit)="onSubmit(_id)">
+
+            <input formControlName="city" list="city" placeholder="city"><br>
+            <div [hidden]="!(registrationForm.controls['city'].invalid && registrationForm.controls['city'].touched)">
+                <div class="error" *ngIf="registrationForm.controls['city'].errors">
+                    <p *ngIf="registrationForm.controls['city'].errors.required">
+                        city is required
+                    </p>
+                </div>
+            </div>
+            <input type="text" placeholder="street" formControlName="street" /><br>
+            <div [hidden]="!(registrationForm.controls['street'].invalid && registrationForm.controls['street'].touched)">
+                <div class="error" *ngIf="registrationForm.controls['street'].errors">
+                    <p *ngIf="registrationForm.controls['street'].errors.required">
+                        street is required
+                    </p>
+                </div>
+            </div>
+            <input type="text" placeholder="first name" formControlName="first_name" /><br>
+            <div [hidden]="!(registrationForm.controls['first_name'].invalid && registrationForm.controls['first_name'].touched)">
+                <div class="error" *ngIf="registrationForm.controls['first_name'].errors">
+                    <p *ngIf="registrationForm.controls['first_name'].errors.required">
+                        first name is required
+                    </p>
+                </div>
+            </div>
+            <input type="text" placeholder="last name" formControlName="last_name" /><br>
+            <div [hidden]="!(registrationForm.controls['last_name'].invalid && registrationForm.controls['last_name'].touched)">
+                <div class="error" *ngIf="registrationForm.controls['last_name'].errors">
+                    <p *ngIf="registrationForm.controls['last_name'].errors.required">
+                        last name is required
+                    </p>
+                </div>
+            </div>
+
+            <button type="submit" >registrate</button>
+        </form>
+    </div>
+</div>
+
+
+<datalist id="city">
+    <option value="Tel Aviv">
+    <option value="Haifa">
+    <option value="Jerusalem">
+    <option value="Rishon-le-zion">
+    <option value="Ashdod">
+    <option value="Eilat">
+    <option value="Hedera">
+    <option value="Natanya">
+    <option value="Afula">
+    <option value="Metula">
+</datalist>

@@ -1,0 +1,51 @@
+
+#div-order {
+    text-align: center;
+    display: inline-block;
+    align-content: center;
+    padding: 20px auto;
+
+    font-family: 'Varela', sans-serif;
+    position: relative;
+}
+
+
+
+th {
+    text-align: left;
+    padding: 5px;
+    color: #3E4149;
+    background-color: #90BFBE;
+    font-family: 'Varela', sans-serif;
+    font-weight: normal;
+    font-size: 10px;
+}
+
+
+table {
+    width: 50%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin: auto;
+}
+button {
+    margin: 20px 20px 20px 20px;
+    width: 20%;
+    height: 30px;
+    border-color: 5px solid white;
+    border-style: none;
+    border-radius: 15px;
+    background-color: #C8C9CD;
+    color: white;
+}
+
+button:hover {
+    margin: 20px 20px 20px 20px;
+    width: 20%;
+    height: 30px;
+    border-color: 5px solid #F9FFCB;
+    border-style: none;
+    border-radius: 15px;
+    background-color: #F9FFCB;
+    color: #3E4149;
+}

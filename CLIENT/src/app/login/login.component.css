@@ -1,0 +1,48 @@
+.login {
+    margin: 60px 30px;
+    color: #3E4149;
+    margin: 60px 30px;
+    padding: 20px;
+}
+
+input {
+    margin: 10px 20px 20px 20px;
+    width: 50%;
+    height: 30px;
+    border-color: 5px solid white;
+    border-style: none;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+button {
+    margin: 20px 20px 20px 20px;
+}
+
+h3 {
+    margin: 20px 20px 20px 20px;
+    font-weight: bold;
+    color: #3E4149;
+}
+
+button {
+    margin: 20px 20px 20px 20px;
+    width: 50%;
+    height: 30px;
+    border-color: 5px solid white;
+    border-style: none;
+    border-radius: 15px;
+    background-color: white;
+    color: #3E4149;
+}
+
+button:hover {
+    margin: 20px 20px 20px 20px;
+    width: 50%;
+    height: 30px;
+    border-color: 5px solid #F9FFCB;
+    border-style: none;
+    border-radius: 15px;
+    background-color: #F9FFCB;
+    color: #3E4149;
+}

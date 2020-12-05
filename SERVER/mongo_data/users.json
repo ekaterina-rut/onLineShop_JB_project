@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "5f73a8fcbede3112489a6032"
+  },
+  "id": "123457811",
+  "email": "zxc@gmail.com",
+  "password": "$2b$10$xOozEjgrje0Ynoz.zXPll.DP6h.qL8jrDTC9C9yxFCKbMRfDhOdCu",
+  "first_name": "qwe",
+  "last_name": "qwe",
+  "city": "MATOSINHOS",
+  "street": "Pcta. D. Nuno Alvares Pereira,",
+  "open_bag": false,
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f74a4e49aef8c38d43044c2"
+  },
+  "id": "345234122",
+  "email": "home@gmail.com",
+  "password": "$2b$10$Zpj3VvZh3RXGbvT4fXS/.unjn9eWmib7AyeKh2bobhJrevaMmvLKe",
+  "first_name": "roman",
+  "last_name": "kozirovski",
+  "city": "Rishon-le-zion",
+  "street": "Pcta. D. Nuno Alvares Pereira,",
+  "open_bag": false,
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f74bfdb6945210764529b74"
+  },
+  "id": "125456874",
+  "email": "123@gmail.com",
+  "password": "$2b$10$4p0pJOty72fbOoT1t6Kn4.SOKylo71qGVw2CJTHIfPz2hAqM/gVua",
+  "first_name": "roman",
+  "last_name": "kozirovski",
+  "city": "Tel-Aviv",
+  "street": "Mahal street 51/6",
+  "open_bag": false,
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f74db40ac34f284a09f7373"
+  },
+  "id": "876222222",
+  "email": "katya@gmail.com",
+  "password": "$2b$10$OnOQsxswXR7wYkStR220K.uFF2a/9hJmukAlPr50GvhLwb0kQM6NS",
+  "first_name": "roman",
+  "last_name": "kozirovski",
+  "city": "Tel-Aviv",
+  "street": "Mahal street 51/6",
+  "open_bag": false,
+  "admin": false,
+  "__v": 0
+}]

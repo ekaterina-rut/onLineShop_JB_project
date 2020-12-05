@@ -1,0 +1,54 @@
+<div id="main-div">
+    <!-- <app-error-msg></app-error-msg>
+    <app-msg></app-msg> -->
+
+    <div class="section">
+
+
+        <h3>REGISTRATION</h3>
+        <form [formGroup]="registrationForm" (ngSubmit)="onSubmit()">
+            <input type="text" placeholder="ID" formControlName="id" /><br>
+            <div [hidden]="!(registrationForm.controls['id'].invalid && registrationForm.controls['id'].touched)">
+                <div class="error" *ngIf="registrationForm.controls['id'].errors">
+                    <p *ngIf="registrationForm.controls['id'].errors.required">
+                        id is required
+                    </p>
+                    <p *ngIf="registrationForm.controls['id'].errors.min">
+                        invalid id
+                    </p>
+                </div>
+            </div>
+
+
+            <input type="email" placeholder="email" formControlName="email" /><br>
+            <div [hidden]="registrationForm.controls['email'].invalid &&  registrationForm.controls['email'].untouched">
+                <div class="error" *ngIf="registrationForm.controls['email'].errors">
+                    <p *ngIf="registrationForm.controls['email'].errors.required">
+                        email is required
+                    </p>
+                    <p *ngIf="registrationForm.controls['email'].errors.email">
+                        invalid email
+                    </p>
+                </div>
+
+            </div>
+            <div formGroupName="password">
+                <input placeholder="enter password" type="password" formControlName="first_password" /><br>
+                <input placeholder="repeat password" type="password" formControlName="repeat_password" /><br>
+                <div
+                    [hidden]="registrationForm.controls['password'].invalid &&  registrationForm.controls['password'].untouched">
+
+                    <div class="error" *ngIf="registrationForm.controls['password'].errors">
+                        <p *ngIf="registrationForm.controls['password'].errors.notSame">
+                            passwords don't match
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div (click)="checkFeilds()">
+                <button type="submit" [disabled]="!registrationForm.valid">registrate</button>
+            </div>
+        </form>
+    </div>
+</div>
+

@@ -1,0 +1,5 @@
+_id,id,email,password,first_name,last_name,city,street,open_bag,admin,__v
+5f73a8fcbede3112489a6032,123457811,zxc@gmail.com,$2b$10$xOozEjgrje0Ynoz.zXPll.DP6h.qL8jrDTC9C9yxFCKbMRfDhOdCu,qwe,qwe,MATOSINHOS,"Pcta. D. Nuno Alvares Pereira,",false,false,0
+5f74a4e49aef8c38d43044c2,345234122,home@gmail.com,$2b$10$Zpj3VvZh3RXGbvT4fXS/.unjn9eWmib7AyeKh2bobhJrevaMmvLKe,roman,kozirovski,Rishon-le-zion,"Pcta. D. Nuno Alvares Pereira,",false,false,0
+5f74bfdb6945210764529b74,125456874,123@gmail.com,$2b$10$4p0pJOty72fbOoT1t6Kn4.SOKylo71qGVw2CJTHIfPz2hAqM/gVua,roman,kozirovski,Tel-Aviv,Mahal street 51/6,false,false,0
+5f74db40ac34f284a09f7373,876222222,katya@gmail.com,$2b$10$OnOQsxswXR7wYkStR220K.uFF2a/9hJmukAlPr50GvhLwb0kQM6NS,roman,kozirovski,Tel-Aviv,Mahal street 51/6,false,false,0

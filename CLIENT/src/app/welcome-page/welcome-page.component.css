@@ -1,0 +1,57 @@
+.welcome {
+    text-align: center;
+    margin: 10px auto 10px auto;
+    color: #3E4149;
+    font-weight: bold;
+}
+
+.section {
+    width: 30%;
+    display: inline-block;
+    margin-top: 0px;
+    background-color: #C8C9CD;
+    text-align: center;
+}
+
+#welcome-page {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 20px;
+    height: 100%;
+    font-family: 'Varela', sans-serif;
+    color: #3E4149;
+}
+
+img {
+    width: 100%;
+}
+
+button {
+    margin: 20px auto 20px auto;
+    width: 50%;
+    height: 30px;
+    border-color: 5px solid white;
+    border-style: none;
+    border-radius: 15px;
+    background-color: white;
+    font-weight: bold;
+    color: #3E4149;
+}
+
+button:hover {
+    margin: 20px auto 20px auto;
+    width: 50%;
+    height: 30px;
+    border-color: 5px solid #F9FFCB;
+    border-style: none;
+    border-radius: 15px;
+    background-color: #F9FFCB;
+    font-weight: bold;
+    color: #3E4149;
+}
+
+
+#user-div {
+    text-align: center;
+    padding-top: 50px;
+}

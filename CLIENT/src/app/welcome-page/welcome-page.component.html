@@ -1,0 +1,29 @@
+<div>
+    <div id='welcome-page'>
+        <!-- <button (click)="creact_admin()">creat admin</button> -->
+        <div id="login" *ngIf="is_logged_out$ | async" class="section">
+            <h1 class="welcome">WELCOME TO BABY SHOP</h1>
+            <app-login></app-login>
+        </div>
+
+        <div class="info" class="section" *ngIf="is_loged_in$ | async">
+            <div id="user-div" *ngIf="!(admin$ | async)">
+                <div style="font-size: 20px" *ngIf="info_msg$ | async as inform_msg">{{inform_msg}}</div>
+                <button (click)="backToShopping()">back to shopping</button>
+            </div>
+            <div  *ngIf=" admin$ | async" >
+                <button (click)="backToProducts()">back to products</button>
+            </div>
+        </div>
+
+
+        <div id="mood" class="section">
+            <img src="assets/img/3186.jpg" alt="insperartion">
+        </div>
+
+        <div class="section">
+            <app-about></app-about>
+        </div>
+    </div>
+    <app-info></app-info>
+</div>

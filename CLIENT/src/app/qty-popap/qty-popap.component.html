@@ -1,0 +1,8 @@
+<div *ngIf="user_id$ | async as _id">
+    <p> {{data.name}} was added to shopping bag</p>
+    <h5>how many?</h5>
+    <input type="number" min="1" [(ngModel)]="qty" value="1" /><br>
+    <button [disabled]="validateNumber(qty)" mat-dialog-close (click)="addQty(qty, data._id, _id)">save</button>
+
+    <button mat-dialog-close>close</button>
+</div>

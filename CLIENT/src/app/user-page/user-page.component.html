@@ -1,0 +1,22 @@
+<div class="user-page" *ngIf="user$ | async as user">
+    <mat-sidenav-container>
+        <mat-sidenav [(opened)]="opened">
+         
+            <app-shopping-bag class="shopping_bag"></app-shopping-bag>
+        </mat-sidenav>
+        <mat-sidenav-content id="contant">
+            <p>Hello, {{user.first_name}}</p>
+            <div id="msg-component">
+                <app-msg ></app-msg>
+            </div>
+            <button *ngIf="bag$ | async" (click)="opened=!opened">show shopping bag</button>
+            <button *ngIf="!(bag$ | async)" (click)="startShoping()">start shopping</button>
+            <div >
+                <app-category-bar></app-category-bar>
+            </div>
+            <app-products-list></app-products-list>
+
+        </mat-sidenav-content>
+
+    </mat-sidenav-container>
+</div>

@@ -1,0 +1,21 @@
+
+input {
+    border: none;
+    border-bottom: solid #3E4149 1px;
+    
+}
+
+button {
+    border: none;
+    height: 30px;
+    background-color: white;    
+}
+button:hover {
+    border: none;
+    height: 30px;
+    background-color: #F9FFCB;    
+}
+img {
+    flex-wrap: wrap;
+    height: 50%;
+}

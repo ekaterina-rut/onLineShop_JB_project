@@ -1,0 +1,48 @@
+<div id="div-order" *ngIf="last_order$ | async as last_order">
+    <h1 *ngIf="user$ | async as user">WELCOME BACK, {{user.first_name | uppercase}} </h1>
+
+    <p >your last order #{{last_order._id}}</p>
+
+    <div>
+
+    <table class="order">
+        <tr >
+            <th></th>
+            <th></th>
+            <th>quantity</th>
+            <th>subtotal</th>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <app-order-product *ngFor="let order_product of last_order_products$ | async"
+                [id_product]="order_product.id_product">
+            </app-order-product>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <app-last-order *ngFor="let order_product of last_order_products$ | async"
+                [id_product]="order_product.id_product">
+            </app-last-order>
+
+        </tr>
+    </table>
+    <table class="order">
+        <tr  >
+            <th>
+                total
+            </th>
+            <th></th>
+            <th></th>
+            <th>
+                {{last_order.total_price}}$
+            </th>
+
+        </tr>
+    </table>
+    <button  (click)="startShopping()">start shopping</button>
+
+    
+
+</div>

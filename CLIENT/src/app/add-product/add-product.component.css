@@ -1,0 +1,38 @@
+#main-div {
+width: 300px;
+}
+
+button {
+    width: 50%;
+    height: 30px;
+     border-style: none;
+    color: #3E4149;
+    background-color:  #F9FFCB;
+    margin-left: 20px;
+}
+button:hover {
+    width: 50%;
+    height: 30px;
+     border-style: none;
+    color: #3E4149;
+    background-color:  #90BFBE;
+}
+label {
+    margin-left: 20px;
+}
+
+input {
+    margin: 10px 20px 20px 20px;
+    width: 50%;
+    height: 30px;
+    border-color: 5px solid white;
+    border-style: none;
+    font-size: 14px;
+    padding: 10px
+}
+
+.err {
+    color:  #F9FFCB;
+
+    font-size: 12px;
+}

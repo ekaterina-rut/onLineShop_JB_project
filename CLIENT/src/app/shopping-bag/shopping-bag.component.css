@@ -1,0 +1,48 @@
+.shopping-bag {
+    width: 100%;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+h3, h4 {
+    color: #90BFBE;;
+}
+
+th {
+    text-align: center;
+    padding: 5px;
+    color: #3E4149;
+    background-color: #90BFBE;
+    font-family: 'Varela', sans-serif;
+    font-weight: normal;
+    font-size: 10px;
+}
+
+p {
+    color: #3E4149;
+}
+
+button {
+    background-color: #F9FFCB;
+    border: none;
+    color: #3E4149;
+    width: 40%;
+    height: 30px;
+    border-radius: 15px;
+    padding-bottom: 15px;
+    font-family: 'Varela', sans-serif;
+    margin: 20px 10px;
+    font-size: 10px;
+}
+
+button:hover {
+    background-color: #C8C9CD;
+    width: 40%;
+    border-radius: 15px;
+    font-family: 'Varela', sans-serif;
+    color: white;
+}

@@ -1,0 +1,10 @@
+<div id="main-div" *ngIf="order$ | async as initialState">
+    <h3>thank you for shoping</h3>
+    <h4>
+        you may download your invoice
+        <br /> <a [href]="initialState.url">here </a>
+    </h4>
+    <button (click)="home()">home</button><br>
+    <img src="assets/img/white-boxes-with-cord_176382-1374.jpg">
+
+</div>

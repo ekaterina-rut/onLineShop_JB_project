@@ -1,0 +1,12 @@
+<div id="msg">
+    <div *ngIf="user_msg$ | async as inform_msg">
+
+        <h1>{{inform_msg}}</h1>
+
+    </div>
+    <div *ngIf="bag_msg$ | async as inform_msg">
+
+        <h3>{{inform_msg}}</h3>
+
+    </div>
+</div>

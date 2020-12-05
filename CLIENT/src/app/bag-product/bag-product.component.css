@@ -1,0 +1,31 @@
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.btn-image {
+    width: 10px;
+}
+img {
+   width: 50px;
+}
+button {
+    padding: 0px;
+    background-color: white;
+    border: none;
+}
+
+td {
+    text-align: center;
+    height: 50ox;
+    width: 50ox;
+    padding: 15px;
+    color: #3E4149;
+    font-family: 'Varela', sans-serif;
+    font-size: 8px;
+
+
+}
+

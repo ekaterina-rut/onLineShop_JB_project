@@ -1,0 +1,10 @@
+
+<div id="product-div">
+    <div class="product" *ngIf="product$ | async as product">
+        <img id="product-img" src={{product.img}} />
+        <h5> {{product.name | uppercase}}  </h5>
+        <h4> {{product.price}}$ </h4>
+        <button *ngIf="user$&&shopping_bag$ | async" mat-button (click)="pickProduct(product)"><img src="assets/img/add-to-bag-btn.png"></button>
+        <button *ngIf="admin$ | async" mat-button (click)="editProduct(product)"><img src="assets/img/edit-icon.png"></button>
+    </div>
+</div>

@@ -1,0 +1,55 @@
+mat-sidenav-container{
+    height: 100%;  
+}
+
+mat-sidenav {
+    width: 300px;
+    height: 100%;
+    background-color: white;
+}
+
+.mat-drawer-content {
+    overflow: -moz-hidden-unscrollable;
+}
+#contant{
+    height: 100%;
+    background-color:white;
+}
+
+.user-page{
+    height: 100%;
+    text-align: center;
+    
+}
+.shopping_bag {
+    width: 100%;
+    border: solid red 1px
+}
+
+button {
+    margin: 20px 20px 20px 20px;
+    width: 20%;
+    height: 30px;
+    border-color: 5px solid white;
+    border-style: none;
+    border-radius: 15px;
+    background-color: #C8C9CD;
+    color: white;
+}
+
+button:hover {
+    margin: 20px 20px 20px 20px;
+    width: 20%;
+    height: 30px;
+    border-color: 5px solid #F9FFCB;
+    border-style: none;
+    border-radius: 15px;
+    background-color: #F9FFCB;
+    color: #3E4149;
+}
+
+#msg-component {
+    color: #3E4149;
+    font-family: 'Varela', sans-serif;
+
+}

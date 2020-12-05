@@ -1,0 +1,8 @@
+<div>
+    <div *ngIf="clear_search$ | async">
+        <app-product *ngFor="let product of products$ | async" [id]="product._id"> </app-product>
+    </div>
+    <div *ngIf="start_search$ | async">
+        <app-product *ngFor="let product of products$ | async" [id]="product._id"> </app-product>
+    </div>
+</div>

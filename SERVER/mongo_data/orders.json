@@ -1,0 +1,3301 @@
+[{
+  "_id": {
+    "$oid": "5f536860fb07857540750c46"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T10:28:48.769Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-22T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5370820895841e605c389c"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T11:03:30.711Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-05T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f537866a147455ea0675f71"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T11:37:10.998Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-30T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f538d64c3a34f0bd83f74d0"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T13:06:44.159Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-23T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f538d8ec3a34f0bd83f74d1"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T13:07:26.232Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f538dabc3a34f0bd83f74d3"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T13:07:55.535Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-23T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f538e42c3a34f0bd83f74d5"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T13:10:26.994Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-22T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f539b1571de430c18725b7f"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:05:09.090Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-22T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f539d344af9545708f772ab"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:14:12.474Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-10T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f539d774af9545708f772ae"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:15:19.830Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-30T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f539eca76d6995be4262ccc"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:20:58.940Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-21T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f539f0876d6995be4262ccf"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:22:00.581Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-22T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f539f6376d6995be4262cd2"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:23:31.275Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-23T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f539fa076d6995be4262cd5"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:24:32.790Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-16T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f539fc876d6995be4262cd8"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:25:12.142Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-13T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53a00e76d6995be4262cdb"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:26:22.221Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-30T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53a06d76d6995be4262cde"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:27:57.726Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-23T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53a0c876d6995be4262ce1"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:29:28.723Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53a2a576d6995be4262ce4"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:37:25.235Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "11",
+  "deliveryDate": {
+    "$date": "2020-09-23T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53a3c376d6995be4262ce7"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:42:11.073Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-14T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53a42176d6995be4262cea"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:43:45.066Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53a51476d6995be4262ced"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:47:48.138Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53a6cd76d6995be4262cf0"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:55:09.515Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53a74276d6995be4262cf3"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:57:06.931Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53a7dd76d6995be4262cf6"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T14:59:41.687Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-22T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53ab5776d6995be4262cf9"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T15:14:31.798Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-27T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53b7ec76d6995be4262cfc"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T16:08:12.962Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-21T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53b85976d6995be4262cff"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T16:10:01.992Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-10-01T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53b88b5a2c4566e4f3671f"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T16:10:51.266Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53bd54020241551c947e67"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T16:31:16.865Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-16T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53be6c020241551c947e6a"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T16:35:56.937Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-17T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53bea8020241551c947e6d"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T16:36:56.510Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53bf9deae9f4b9bc29ebe7"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T16:41:01.631Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-24T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53c791b4e29017fc153d09"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T17:14:57.504Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-10-07T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53c811874f98954094cdd9"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T17:17:05.337Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-30T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f53ca7b3e8ce988b445256e"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-05T17:27:23.761Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5508e33e8ce988b4452571"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-06T16:05:55.094Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-15T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f550f6d3e8ce988b4452574"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-06T16:33:49.517Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-23T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5511743e8ce988b4452577"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-06T16:42:28.608Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5511d480fc76c12cae60bd"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-06T16:44:04.665Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55121680fc76c12cae60c0"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-06T16:45:10.130Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-10-07T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5513c980fc76c12cae60c3"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-06T16:52:25.911Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-30T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55144980fc76c12cae60c6"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-06T16:54:33.970Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-23T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f551592e6c7a1a4748624b4"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-06T17:00:02.155Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-14T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5515c2c5ab161bbc8e9d24"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-06T17:00:50.104Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "12",
+  "deliveryDate": {
+    "$date": "2020-09-22T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5518c9f4501c4fc41d4a6c"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-06T17:13:45.600Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-24T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55343859386e4d20987bbb"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-06T19:10:48.097Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-10-06T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55383069d8e3a5641a1233"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-06T19:27:44.330Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-30T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55c6787586eb27b04b3076"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T05:34:48.194Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55c73bb1e46ec3b00b0383"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T05:38:03.487Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-30T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55c761d17d8773886de7b0"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T05:38:41.278Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-30T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55c78fb170d13598521b71"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T05:39:27.016Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55c7d6b170d13598521b74"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T05:40:38.800Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-30T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55c81142158c6b680af8a6"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T05:41:37.507Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-23T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55d2e0820bad9bc880d23d"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T06:27:44.631Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "12",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55d5f0ef97cf9ec82989cc"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T06:40:48.229Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-30T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55d831b74165a5883f777c"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T06:50:25.167Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-22T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55d8b3ad20411f3cd1cff5"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T06:52:35.236Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55d9bed81bac70941af20b"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T06:57:02.856Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-14T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55dabc9e49b48fc032e03f"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T07:01:16.465Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-16T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55db9925f4187390cd27d7"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T07:04:57.884Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f55dc5c62135042684792bf"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T07:08:12.220Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f564606fecaafac407ab141"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T14:39:02.678Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-30T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5646b4d0d4ca6064b27a42"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T14:41:56.091Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5646f4d0d4ca6064b27a45"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T14:43:00.351Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-30T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f564f362060c817cc6a1f0f"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T15:18:14.182Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-27T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f564ff22060c817cc6a1f12"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T15:21:22.328Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-14T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5650672060c817cc6a1f15"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T15:23:19.458Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-10-04T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5651562060c817cc6a1f1b"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T15:27:18.390Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "33",
+  "deliveryDate": {
+    "$date": "2020-09-22T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5651c02060c817cc6a1f1e"
+  },
+  "id_customer": "5f40e38068415e8268d49690",
+  "id_bag": "5f42d0ae253a00c1180ea441",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "lod",
+  "order_date": {
+    "$date": "2020-09-07T15:29:04.517Z"
+  },
+  "bag_date": {
+    "$date": "2020-08-23T20:25:18.445Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-27T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5c88ef2075692878990964"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5c7b10207569287899094a",
+  "total_price": 85,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-12T08:38:07.033Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-12T07:38:56.123Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5c8b1f6f93fe0c9845cd94"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5c7b10207569287899094a",
+  "total_price": 85,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-12T08:47:27.054Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-12T07:38:56.123Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5c8ca46f93fe0c9845cd9a"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5c8c936f93fe0c9845cd97",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-12T08:53:56.525Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-12T08:53:39.126Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-27T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5c8dd16f93fe0c9845cda3"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5c8db46f93fe0c9845cd9c",
+  "total_price": 65,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-12T08:58:57.414Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-12T08:58:28.048Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-21T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5e3b7f6f93fe0c9845cdac"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5c8de46f93fe0c9845cda7",
+  "total_price": 35,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-13T15:32:15.525Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-12T08:59:16.220Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5e4089f6972a0c20d2b78b"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5e4077f6972a0c20d2b788",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-13T15:53:45.816Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-13T15:53:27.688Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5e439d12f6613e70fb9bc6"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5e439012f6613e70fb9bc3",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-13T16:06:53.997Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-13T16:06:40.731Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5e440a12f6613e70fb9bcb"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5e43f612f6613e70fb9bc8",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-13T16:08:42.429Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-13T16:08:22.106Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5e442f12f6613e70fb9bd0"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5e441e12f6613e70fb9bcd",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-13T16:09:19.690Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-13T16:09:02.907Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-27T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5e4ec1e40323769c45439f"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5e4eace40323769c45439c",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-13T16:54:25.903Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-13T16:54:04.593Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5e4ef6e40323769c4543a4"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5e4ee0e40323769c4543a1",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-13T16:55:18.158Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-13T16:54:56.233Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5e5102e40323769c4543a9"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5e50eee40323769c4543a6",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-13T17:04:02.602Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-13T17:03:42.862Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-27T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5e51ece40323769c4543ae"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5e51dae40323769c4543ab",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-13T17:07:56.922Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-13T17:07:38.384Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5e5701e40323769c4543b3"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5e56f1e40323769c4543b0",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-13T17:29:37.173Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-13T17:29:21.945Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5e5785e40323769c4543b8"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f5e5777e40323769c4543b5",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-13T17:31:49.752Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-13T17:31:35.165Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-10-05T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61126ca923be63d04df5c5"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f61124da923be63d04df5c2",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-15T19:13:48.293Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-15T19:13:17.955Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-22T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61135c6a702b5f68e39bf6"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f61134e6a702b5f68e39bf3",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-15T19:17:48.932Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-15T19:17:34.496Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6472cf7dccb468ccae1b4b"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f6472b87dccb468ccae1b48",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T08:41:51.554Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T08:41:28.888Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-02T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64750e6f0b503d182fbd49"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f6474ee6f0b503d182fbd46",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T08:51:26.517Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T08:50:54.613Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-15T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6475b16f0b503d182fbd4e"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f6475a06f0b503d182fbd4b",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T08:54:09.267Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T08:53:52.098Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-07T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64927e5a26c44dc84b0f06"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64926e5a26c44dc84b0f03",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T10:57:02.186Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T10:56:46.849Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-09T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6492c75a26c44dc84b0f0b"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f6492b95a26c44dc84b0f08",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T10:58:15.737Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T10:58:01.258Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-08T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6493195a26c44dc84b0f10"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64930d5a26c44dc84b0f0d",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T10:59:37.264Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T10:59:25.081Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-07T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6493aac880df3e14f98b5e"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64939bc880df3e14f98b5b",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T11:02:02.572Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T11:01:47.314Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-14T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6493f9f3ace8659cd15f2b"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f6493ecf3ace8659cd15f28",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T11:03:21.018Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T11:03:08.964Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-08T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f649484b12e557a44ab9d1b"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f649476b12e557a44ab9d18",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T11:05:40.725Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T11:05:26.876Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-15T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f649595813fba078489d038"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f649585813fba078489d035",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T11:10:13.847Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T11:09:57.219Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-02T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64968cf0371302c4956bb8"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64967df0371302c4956bb5",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T11:14:20.440Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T11:14:05.228Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-07T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64982633457622f0f83631"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64981933457622f0f8362e",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T11:21:10.906Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T11:20:57.087Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-08-31T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f649903776431793c2c1f66"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f6498f1776431793c2c1f63",
+  "total_price": 10,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T11:24:51.456Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T11:24:33.505Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-16T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f649979ce83814c9805563d"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f649962ce83814c98055638",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T11:26:49.323Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T11:26:26.315Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f649c25898c7c5c94148a66"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f649c16898c7c5c94148a63",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T11:38:13.921Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T11:37:58.753Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-01T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f649cf493855108c4fe7bcc"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f649ce893855108c4fe7bc9",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T11:41:40.911Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T11:41:28.620Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f649d4d3e000d5cd8d5b834"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f649d403e000d5cd8d5b831",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T11:43:09.965Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T11:42:56.863Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64a6ae3e000d5cd8d5b839"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64a6993e000d5cd8d5b836",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T12:23:10.968Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T12:22:49.411Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-22T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64a8923e000d5cd8d5b83e"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64a8803e000d5cd8d5b83b",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T12:31:14.673Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T12:30:56.673Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-22T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64a94e3e000d5cd8d5b843"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64a9423e000d5cd8d5b840",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T12:34:22.702Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T12:34:10.028Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64a9843e000d5cd8d5b848"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64a9763e000d5cd8d5b845",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T12:35:16.339Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T12:35:02.699Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-01T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64a9df3e000d5cd8d5b84d"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64a9d33e000d5cd8d5b84a",
+  "total_price": 20,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T12:36:47.951Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T12:36:35.780Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-07T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64aa2a3e000d5cd8d5b852"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64aa1e3e000d5cd8d5b84f",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T12:38:02.612Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T12:37:50.813Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-01T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64aae16af4e46664d2a4cb"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64aad56af4e46664d2a4c8",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T12:41:05.367Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T12:40:53.914Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-09T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64ab856af4e46664d2a4d0"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64ab756af4e46664d2a4cd",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T12:43:49.295Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T12:43:33.251Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-16T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64ad6dcc31b4833841ae9d"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64ad5ccc31b4833841ae9a",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T12:51:57.894Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T12:51:40.568Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-17T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64aface0b26b423071a4e0"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64af9fe0b26b423071a4dd",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T13:01:32.846Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T13:01:19.207Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-16T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64b016965b868e40403bba"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f64b007965b868e40403bb7",
+  "total_price": 20,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-18T13:03:18.180Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-18T13:03:03.453Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-03T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65b7b28361ed8158ee0ded"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65b3c98361ed8158ee0de8",
+  "total_price": 30,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T07:48:02.124Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T07:31:21.299Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-14T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65bad98361ed8158ee0df3"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65baca8361ed8158ee0df0",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T08:01:29.609Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T08:01:14.102Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-01T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65bb1b8361ed8158ee0df8"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65bb0c8361ed8158ee0df5",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T08:02:35.801Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T08:02:20.923Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-15T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65bbe88361ed8158ee0dfd"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65bbd98361ed8158ee0dfa",
+  "total_price": 10,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T08:06:00.464Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T08:05:45.687Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-22T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65bc7a8361ed8158ee0e02"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65bc6c8361ed8158ee0dff",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T08:08:26.129Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T08:08:12.575Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-02T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65bea68361ed8158ee0e07"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65be988361ed8158ee0e04",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T08:17:42.473Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T08:17:28.600Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-08T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65c9ef54eea490bc00ac6c"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65c9de54eea490bc00ac69",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T09:05:51.599Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T09:05:34.225Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-02T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65cab72d92033048ff8296"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65caaa2d92033048ff8293",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T09:09:11.159Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T09:08:58.619Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-08T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65cb1ecd6b67481427cbd8"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65cb12cd6b67481427cbd5",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T09:10:54.186Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T09:10:42.267Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-09T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65ccda5188ce92ccd99c0d"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65ccc65188ce92ccd99c08",
+  "total_price": 32,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T09:18:18.002Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T09:17:58.934Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65cd7c3a814288c03e3fbe"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65cd6f3a814288c03e3fbb",
+  "total_price": 20,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T09:21:00.688Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T09:20:47.573Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-07T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65ce499d2c5038a83f0161"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65ce3e9d2c5038a83f015e",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T09:24:25.740Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T09:24:14.009Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-09T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65d0eaf39efc8e54781a8d"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65d0ddf39efc8e54781a8a",
+  "total_price": 20,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T09:35:38.132Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T09:35:25.662Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-09T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65d3f533aac01af8af021d"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65d3e233aac01af8af021a",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T09:48:37.077Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T09:48:18.314Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-17T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65e37a82606932949d826c"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65e36a82606932949d8269",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T10:54:50.236Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T10:54:34.024Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-10T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65e40b82606932949d8271"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65e3f782606932949d826e",
+  "total_price": 10,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T10:57:15.985Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T10:56:55.867Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-17T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65e58182606932949d827a"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65e56482606932949d8273",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T11:03:29.241Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T11:03:00.028Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-17T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f65e96782606932949d8281"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f65e95982606932949d827e",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T11:20:07.526Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T11:19:53.074Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-04T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f66281082606932949d82e5"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f66029682606932949d8289",
+  "total_price": 120,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T15:47:28.018Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T13:07:34.421Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f66291582606932949d82ed"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f66290182606932949d82e8",
+  "total_price": 75,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T15:51:49.716Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T15:51:29.896Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6633ca82606932949d82f3"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f6633a082606932949d82f0",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-19T16:37:30.555Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-19T16:36:48.895Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-08T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f675164add4532f78835dbe"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f66f70aadd4532f78835dbb",
+  "total_price": 45,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-20T12:56:04.958Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-20T06:30:34.384Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-16T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b8cbbadd4532f78835dcd"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f67544cadd4532f78835dc0",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-23T17:58:19.878Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-20T13:08:28.446Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-09-21T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6f5fd9490cf793d0ac4595"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f6b8d8fadd4532f78835dcf",
+  "total_price": 22,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-26T15:35:53.461Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-23T18:01:51.561Z"
+  },
+  "payment": "522879109900012",
+  "deliveryDate": {
+    "$date": "2020-09-21T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f708119fc69884f9cb97afe"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f6f693f490cf793d0ac4599",
+  "total_price": 82,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T12:10:01.057Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-26T16:15:59.888Z"
+  },
+  "payment": "11",
+  "deliveryDate": {
+    "$date": "2020-09-09T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f708239fc69884f9cb97b06"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f70820bfc69884f9cb97b03",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T12:14:49.818Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T12:14:03.862Z"
+  },
+  "payment": "11",
+  "deliveryDate": {
+    "$date": "2020-09-22T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7083fbfc69884f9cb97b0b"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f7083d9fc69884f9cb97b08",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T12:22:19.999Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T12:21:45.368Z"
+  },
+  "payment": "11",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70850ffc69884f9cb97b10"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f7084e8fc69884f9cb97b0d",
+  "total_price": 50,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T12:26:55.636Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T12:26:16.983Z"
+  },
+  "payment": "12",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f709cd5fc69884f9cb97b16"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f70887ffc69884f9cb97b12",
+  "total_price": 24,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T14:08:21.731Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T12:41:35.128Z"
+  },
+  "payment": "522879109900012",
+  "deliveryDate": {
+    "$date": "2020-09-21T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70a5857db0351694afd2a6"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f70a0113038fe3824031c83",
+  "total_price": 81,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T14:45:25.766Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T14:22:09.156Z"
+  },
+  "payment": "5521760735993618",
+  "deliveryDate": {
+    "$date": "2020-08-31T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70a7df7db0351694afd2ad"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f70a7647db0351694afd2aa",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T14:55:27.590Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T14:53:24.872Z"
+  },
+  "payment": "5521760735993618",
+  "deliveryDate": {
+    "$date": "2020-09-28T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70a8a87db0351694afd2b2"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f70a8917db0351694afd2af",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T14:58:48.509Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T14:58:25.918Z"
+  },
+  "payment": "5521760735993618",
+  "deliveryDate": {
+    "$date": "2020-09-21T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70a9b27db0351694afd2b7"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f70a99b7db0351694afd2b4",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T15:03:14.798Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T15:02:51.217Z"
+  },
+  "payment": "5521760735993618",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70aad67db0351694afd2bc"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f70aac67db0351694afd2b9",
+  "total_price": 20,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T15:08:06.831Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T15:07:50.163Z"
+  },
+  "payment": "5521760735993618",
+  "deliveryDate": {
+    "$date": "2020-09-29T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70ab127db0351694afd2c1"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f70aafd7db0351694afd2be",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T15:09:06.252Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T15:08:45.365Z"
+  },
+  "payment": "5521760735993618",
+  "deliveryDate": {
+    "$date": "2020-09-30T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70aef77db0351694afd2c6"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f70ae9a7db0351694afd2c3",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T15:25:43.424Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T15:24:10.233Z"
+  },
+  "payment": "5521760735993618",
+  "deliveryDate": {
+    "$date": "2020-09-21T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70c42178ff8a5e28429a5d"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f70bca97db0351694afd2c8",
+  "total_price": 32,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T16:56:01.991Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T16:24:09.535Z"
+  },
+  "payment": "12",
+  "deliveryDate": {
+    "$date": "2020-09-27T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70c5a08685811abc29af05"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f70c58b8685811abc29af02",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T17:02:24.226Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T17:02:03.126Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-10-07T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70ce8a8685811abc29af0a"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f70ce658685811abc29af07",
+  "total_price": 12,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-27T17:40:26.546Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T17:39:49.396Z"
+  },
+  "payment": "12",
+  "deliveryDate": {
+    "$date": "2020-09-04T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7199ad5036206560db4cc7"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f70d5a68685811abc29af0c",
+  "total_price": 64,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-28T08:07:09.969Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-27T18:10:46.777Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-10-04T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f71a19c5036206560db4cd3"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f719cab5036206560db4cca",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-28T08:41:00.141Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-28T08:19:55.002Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-09-11T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f71a1ce5036206560db4cda"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f71a1b35036206560db4cd5",
+  "total_price": 80,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-28T08:41:50.934Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-28T08:41:23.084Z"
+  },
+  "payment": "1",
+  "deliveryDate": {
+    "$date": "2020-10-08T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f71e3cdcac14407a86ee32e"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f71a1ef5036206560db4cdd",
+  "total_price": 125,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-28T13:23:25.959Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-28T08:42:23.686Z"
+  },
+  "payment": "12",
+  "deliveryDate": {
+    "$date": "2020-08-31T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f71fa26fdb18c2d909b156c"
+  },
+  "id_customer": "5f71f9b3ec69676294720336",
+  "id_bag": "5f71fa09fdb18c2d909b1569",
+  "total_price": 25,
+  "city": "Tel-Aviv",
+  "street": "Mahal street 51/6",
+  "order_date": {
+    "$date": "2020-09-28T14:58:46.440Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-28T14:58:17.169Z"
+  },
+  "payment": "12",
+  "deliveryDate": {
+    "$date": "2020-10-10T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f71ff2377401165f8cfa245"
+  },
+  "id_customer": "5f71f9b3ec69676294720336",
+  "id_bag": "5f71fa88fdb18c2d909b156e",
+  "total_price": 100,
+  "city": "Tel-Aviv",
+  "street": "Mahal street 51/6",
+  "order_date": {
+    "$date": "2020-09-28T15:20:03.737Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-28T15:00:24.131Z"
+  },
+  "payment": "12",
+  "deliveryDate": {
+    "$date": "2020-08-20T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f72023177401165f8cfa24e"
+  },
+  "id_customer": "5f71f9b3ec69676294720336",
+  "id_bag": "5f71ff3077401165f8cfa249",
+  "total_price": 100,
+  "city": "Tel-Aviv",
+  "street": "Mahal street 51/6",
+  "order_date": {
+    "$date": "2020-09-28T15:33:05.151Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-28T15:20:16.949Z"
+  },
+  "payment": "12",
+  "deliveryDate": {
+    "$date": "2020-08-13T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7206f177401165f8cfa258"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f71e3edcac14407a86ee333",
+  "total_price": 130,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-28T15:53:21.590Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-28T13:23:57.307Z"
+  },
+  "payment": "12",
+  "deliveryDate": {
+    "$date": "2020-10-08T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7208e177401165f8cfa25e"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f7207f377401165f8cfa25b",
+  "total_price": 25,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-28T16:01:37.770Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-28T15:57:39.639Z"
+  },
+  "payment": "12",
+  "deliveryDate": {
+    "$date": "2020-09-03T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7215c577401165f8cfa265"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f72159c77401165f8cfa260",
+  "total_price": 65,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-28T16:56:37.480Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-28T16:55:56.876Z"
+  },
+  "payment": "123",
+  "deliveryDate": {
+    "$date": "2020-10-07T00:00:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f723d368eee2a5eb8776b0c"
+  },
+  "id_customer": "5f5ba03b8498185cd0b9056c",
+  "id_bag": "5f723cb48eee2a5eb8776afc",
+  "total_price": 200,
+  "city": "tel aviv",
+  "street": "dan lener",
+  "order_date": {
+    "$date": "2020-09-28T19:44:54.123Z"
+  },
+  "bag_date": {
+    "$date": "2020-09-28T19:42:44.202Z"
+  },
+  "payment": "12",
+  "deliveryDate": {
+    "$date": "2020-08-19T00:00:00Z"
+  },
+  "__v": 0
+}]

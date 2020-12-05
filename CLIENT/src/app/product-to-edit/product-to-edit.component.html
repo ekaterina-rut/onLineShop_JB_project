@@ -1,0 +1,42 @@
+<div id="main-div" *ngIf="product_to_edit$ | async as product_to_edit">
+    <p *ngIf="err_msg$ | async as err_msg">{{err_msg}}</p>
+
+    <form class="example-full-width" [formGroup]="editProductForm" (ngSubmit)="onSubmit(product_to_edit)">
+        <label>pls update product: {{product_to_edit.name}}</label><br>
+        <img src={{product_to_edit.img}} /><br>
+
+        <label> name </label><br>
+        <input formControlName="name" matInput placeholder="add product name"><br>
+        <label> price </label><br>
+
+        <input formControlName="price" matInput placeholder="add product price"><br>
+        <label> category </label><br>
+
+        <input list="category" formControlName="category" matInput placeholder="add product category"><br>
+        <label> image url </label><br>
+
+        <input formControlName="img" matInput placeholder="add image src"><br>
+        <div id="err">
+            <app-error-msg></app-error-msg>
+        </div>
+        <div>
+            
+            <button type="submit" color="primary">save change</button><br>
+                <!-- <mat-card-actions> -->
+                    <button type="button" (click)="close()">close</button>
+            <!-- </mat-card-actions> -->
+        </div>
+
+    </form>
+
+
+    <datalist id="category">
+        <option value="apparel">
+        <option value="bath">
+        <option value="bedtime">
+        <option value="toys">
+    </datalist>
+
+
+
+</div>

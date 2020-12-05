@@ -1,0 +1,31 @@
+nav {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    width: 80%;
+    padding-bottom: 10px;
+    position: relative;
+    font-family: "Krona One";
+}
+
+ul {
+    list-style: none;
+    list-style-position: initial;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #3E4149;
+    cursor: pointer
+}
+
+a:hover {
+    text-decoration: none;
+    color: #C8C9CD;
+    cursor: pointer
+}
+

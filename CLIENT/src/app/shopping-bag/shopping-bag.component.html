@@ -1,0 +1,45 @@
+<div>
+    <div *ngIf="msg$ | async as inform_msg">
+      <h4>
+        {{inform_msg}}
+      </h4>  
+    </div>
+    <div class="shopping-bag" *ngIf="shopping_bag$ | async ">
+        <h3>SHOPPING BAG</h3>
+        <table id="bag">
+
+            <tr class="order-raw ">
+                <th></th>
+                <th>quantaty</th>
+                <th>subtotal</th>
+                <th></th>
+            </tr>
+
+        </table>
+        <table>
+            <tr *ngFor="let bag_product of bag_products$ | async">
+
+                <app-bag-product [product_id]="bag_product._id">
+                </app-bag-product>
+            </tr>
+
+        </table>
+        <table>
+            <tr *ngIf="sum$ | async as sum">
+                <th>
+                    total
+                </th>
+                <th></th>
+                <th>
+                    {{sum}}$
+                </th>
+                <th></th>
+            </tr>
+        </table>
+
+        <button *ngIf=" is_bag_empty$ | async" (click)="emptyBag()">empty bag</button>
+        <button *ngIf="is_bag_empty$ | async" (click)="placeOrder()">place order</button>
+
+    </div>
+
+</div>

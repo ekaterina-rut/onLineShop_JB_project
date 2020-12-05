@@ -1,0 +1,12 @@
+<div id="info" >
+    <div  class="info-div" *ngIf="products$ | async as products">
+        <h3>
+            availble products
+        </h3>
+        <span>{{products.length}}</span>
+    </div>
+    <div class="info-div" *ngIf="total_orders$ | async as total_orders">
+        <h3>placed order</h3>
+        <span>{{total_orders}}</span>
+    </div>
+</div>

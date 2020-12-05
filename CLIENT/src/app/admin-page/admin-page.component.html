@@ -1,0 +1,15 @@
+<div class="admin-page" *ngIf="admin$ | async">
+    <p>WELCOME ADMIN!</p>
+     <mat-sidenav-container>
+        <mat-sidenav [opened]="opened$ | async" [(opened)]="opened">
+             <app-product-to-edit *ngIf="product_to_edit$ | async as product_to_edit" [product]="product_to_edit">
+            </app-product-to-edit>
+        </mat-sidenav>
+        <mat-sidenav-content>
+             <button *ngIf="product_to_edit$ | async" (click)="opened=!opened">product to edit</button>
+            <app-category-bar></app-category-bar>
+            <app-products-list></app-products-list>
+        </mat-sidenav-content>
+    </mat-sidenav-container>
+</div>
+

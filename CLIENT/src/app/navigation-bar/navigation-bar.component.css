@@ -1,0 +1,43 @@
+nav {
+    display: flex;
+    justify-content:left;
+    align-items: left;
+    width: 50%;
+    padding-bottom: 10px;
+    position: relative;
+    font-family: 'Varela', sans-serif;
+}
+
+
+ul {
+    list-style: none;
+    list-style-position: initial;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 50px;
+}
+
+#nav-bar{
+    width: 100%;
+}
+
+img {
+    width: 10%;
+    background-color: white;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+}
+
+a {
+    text-decoration: none;
+    color: #3E4149
+}
+a:hover {
+    text-decoration: none;
+    color: #C8C9CD
+}
+

@@ -1,0 +1,16 @@
+<nav>
+    <ul>
+        <li *ngFor="let category of categories$ | async" (click)="pickCategory(category)">
+            <a>
+                {{category}}
+            </a>
+
+        </li>
+        <li>
+            <app-search></app-search>
+
+        </li>
+
+    </ul>
+</nav>
+

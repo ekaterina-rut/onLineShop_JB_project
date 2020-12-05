@@ -1,0 +1,15 @@
+<table class="order" *ngIf="last_order_products$ | async as order_product">
+    <td>
+        <div>
+            <img src={{order_product.img}}>
+            <div>
+                {{order_product.product_name | uppercase}}
+            </div>
+            <div>
+                price: {{order_product.product_price}}$
+            </div>
+        </div>
+    </td>
+    <td> {{order_product.qty}}</td>
+    <td> {{order_product.total_price}}$</td>
+</table>

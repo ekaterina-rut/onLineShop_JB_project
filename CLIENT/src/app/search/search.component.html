@@ -1,0 +1,8 @@
+<div>
+    <input type="text" id="name" required [(ngModel)]="search" name="name">
+    <button type="button" (click)="searchProduct(search)"><img src="assets/img/search-btn.png"></button>
+    <button type="button" (click)="clearSearch()">clear search</button>
+</div>
+<div>
+    <app-product *ngFor="let product of products$ | async" [id]="product._id"> </app-product>
+</div>

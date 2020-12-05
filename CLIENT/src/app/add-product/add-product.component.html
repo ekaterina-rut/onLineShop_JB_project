@@ -1,0 +1,57 @@
+  <div id="main-div">
+  <form [formGroup]="productForm" (ngSubmit)="onSubmit()">
+        <label>name</label><br>
+        <input type="text" placeholder="name" formControlName="name" />
+        <span [hidden]="!(productForm.controls['name'].invalid || productForm.controls['name'].touched)">
+            <span class="error" *ngIf="productForm.controls['name'].errors">
+                <span class="err" *ngIf="productForm.controls['name'].errors.required">
+                    name is required
+                </span>
+            </span>
+        </span>
+        <div>
+            <label>category </label><br>
+            <input list="category" placeholder="category" formControlName="category" />
+            <span [hidden]="!(productForm.controls['category'].invalid || productForm.controls['category'].touched)">
+                <span class="error" *ngIf="productForm.controls['category'].errors">
+                    <span class="err" *ngIf="productForm.controls['category'].errors.required">
+                        category is required
+                    </span>
+                </span>
+            </span>
+        </div>
+
+        <label>price</label><br>
+        <input type="number" placeholder="price" formControlName="price" />
+        <span [hidden]="!(productForm.controls['price'].invalid || productForm.controls['price'].touched)">
+            <span class="error" *ngIf="productForm.controls['price'].errors">
+                <span class="err" *ngIf="productForm.controls['price'].errors.required">
+                    price is required
+                </span>
+            </span>
+        </span>
+        <div>
+            <label>img </label><br>
+            <input list="img" placeholder="img" formControlName="img" />
+            <span [hidden]="!(productForm.controls['img'].invalid || productForm.controls['img'].touched)">
+                <span class="error" *ngIf="productForm.controls['img'].errors">
+                    <span class="err" *ngIf="productForm.controls['img'].errors.required">
+                        img is required
+                    </span>
+                </span>
+            </span>
+        </div>
+
+        <button type="submit" mat-dialog-close [disabled]="!productForm.valid">add product</button>
+
+        
+    </form>
+
+</div>
+
+    <datalist id="category">
+        <option value="apparel">
+        <option value="bath">
+        <option value="bedtime">
+        <option value="toys">
+    </datalist>

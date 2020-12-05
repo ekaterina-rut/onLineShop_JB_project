@@ -1,0 +1,112 @@
+#div-order {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Varela', sans-serif;
+    margin: 20px 20px;
+}
+
+.section {
+    width: 30%;
+    display: inline-block;
+    margin-top: 0px;
+    padding: 20px;
+}
+
+.order-raw {
+    background-color: yellow;
+    height: 50px;
+}
+
+th {
+    text-align: left;
+    padding: 5px;
+    color: #3E4149;
+    background-color: #90BFBE;
+    font-family: 'Varela', sans-serif;
+    font-weight: normal;
+    font-size: 10px;
+}
+
+#msg-div {
+    text-align: center;
+}
+
+h1 {
+    color: #3E4149;
+    font-family: 'Varela', sans-serif;
+}
+
+#back-btn {
+    margin: 20px 20px 20px 20px;
+    width: 20%;
+    height: 30px;
+    border-color: 5px solid white;
+    border-style: none;
+    border-radius: 15px;
+    background-color: #F9FFCB;
+    color: #3E4149;
+    position: relative;
+    left: 40%
+}
+
+#back-btn:hover {
+    margin: 20px 20px 20px 20px;
+    width: 20%;
+    height: 30px;
+    border-color: 5px solid #F9FFCB;
+    border-style: none;
+    border-radius: 15px;
+    background-color: #90BFBE;
+    color: #3E4149;
+}
+
+img {
+    height: 250px;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+#shipping_details {
+    background-color: #C8C9CD;
+    text-align: left;
+}
+
+label {
+    margin-left: 20px;
+}
+
+input {
+    margin: 10px 20px 20px 20px;
+    width: 50%;
+    height: 30px;
+    border-color: 5px solid white;
+    border-style: none;
+    font-size: 10px;
+}
+
+#place-order-btn {
+    width: 50%;
+    height: 30px;
+    margin-left: 20px;
+    border-style: none;
+    color: #3E4149;
+    background-color:  #F9FFCB;
+}
+#place-order-btn:hover {
+    width: 50%;
+    height: 30px;
+    margin-left: 20px;
+    border-style: none;
+    color: #3E4149;
+    background-color:  #90BFBE;
+}
+
+.err {
+    color: white;
+    font-size: 12px;
+}

@@ -1,0 +1,28 @@
+#info {
+    background-color: #C8C9CD;
+    width: 90%;
+    margin: 20px auto;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.info-div {
+    width: 40%;
+    display: inline-block;
+    justify-content: space-around;
+}
+
+h3, span {
+    font-family: 'Varela', sans-serif;
+    font-weight: bold;
+    color: #3E4149;
+}
+
+span {
+    background-color: white;
+    border-radius: 25px;
+    color: #3E4149;
+    padding: 15px;
+}

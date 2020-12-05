@@ -1,0 +1,14 @@
+#main-div {
+    text-align: center;
+    margin: 10px auto 10px auto;
+}
+
+.section {
+    width: 50%;
+    display: inline-block;
+    margin-top: 0px auto;
+    background-color: #C8C9CD;
+    justify-content: space-between;
+    left: 50%;
+    display: inline-block;
+}
